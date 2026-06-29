@@ -1,0 +1,46 @@
+{
+  "citations": [
+    {
+      "source": "blog.google",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/technology/ai/introducing-computer-use-gemini-3-5-flash/"
+    },
+    {
+      "source": "searchenginejournal.com",
+      "title": "Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents",
+      "url": "https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer/515168/"
+    },
+    {
+      "source": "law.com",
+      "title": "Gemini Can Now Operate Your Computer and Attackers Are Already Adapting",
+      "url": "https://www.law.com/legaltechnews/2026/06/29/gemini-can-now-operate-your-computer-and-attackers-are-already-adapting/"
+    },
+    {
+      "source": "time.com",
+      "title": "Why AI Agents Are the Next Great Technological Transformation",
+      "url": "https://time.com/6983211/ai-agents-next-transformation/"
+    },
+    {
+      "source": "developer.mozilla.org",
+      "title": "grid-auto-flow CSS property",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-flow"
+    }
+  ],
+  "design_plan": "Cinematic editorial landing with a dark premium theme, Satoshi font stack, AIDA structure, GSAP\u2011guarded motion, and responsive bento grids that explicitly use grid-auto-flow: dense to avoid layout gaps. Strong ecommerce workflows, clear CTAs, and fair competitor framing with Super differentiated on repeated computer-use and cache efficiency.",
+  "generated_at": "2026-06-29T18:50:55.171268+00:00",
+  "headline": "Super for ecommerce operators monitoring orders, support, and repetitive admin",
+  "site_brief": {
+    "audience": "ecommerce operators monitoring orders, support, and repetitive admin",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "ecommerce operators monitoring orders, support, and repetitive admin AI assistant",
+      "ecommerce operators monitoring orders, support, and repetitive admin personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-ecommerce-operators-monitoring-orders-support-an",
+    "title": "Super for ecommerce operators monitoring orders, support, and repetitive admin"
+  },
+  "summary": "A conversion\u2011focused niche landing page showing how Super helps ecommerce operators reduce daily operational drag by letting personal AI agents operate real tools, reuse a computer-use cache, and handle repeated admin across orders and support\u2014positioned clearly against ChatGPT, Gemini, Grok, Siri, Folk, and Orchids with current market evidence."
+}
